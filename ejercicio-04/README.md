@@ -1,0 +1,18 @@
+## Enunciado ejercicio: ##
+Crear un proyecto Spring Boot con las dependencias:
+
+* H2
+* Spring Data JPA 
+* Spring Web 
+* Spring Boot dev tools
+
+Crear una clase HelloController que sea un controlador REST. Dentro de la clase crear un método que retorne un saludo. Probar que retorna el saludo desde el navegador y desde Postman.
+
+
+Al visitar la url http://localhost:8080/hola, en el navegador se pudo observar:
+
+![Get desde el navegador](img.png)
+
+Y al realizar la consulta con Postman:
+
+![Get desde postman](img_1.png)
