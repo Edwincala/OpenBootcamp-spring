@@ -43,7 +43,7 @@ Al realizar la consulta por medio de Postman, se obtuvo:
 
 ![Get laptops desde postman](img_3.png)
 
-## Ejercicio 3 ##
+## Ejercicio 6 ##
 
 Crear un método en LaptopController que reciba un objeto Laptop enviado en formato JSON desde Postman y persistirlo en la base de datos.
 
